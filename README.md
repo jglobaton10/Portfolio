@@ -4,14 +4,6 @@ You can use the [editor on GitHub](https://github.com/jglobaton10/Portfolio/edit
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-<div class="card">
-  <img src="img_avatar.png" alt="Avatar" style="width:100%">
-  <div class="container">
-    <h4><b>John Doe</b></h4>
-    <p>Architect & Engineer</p>
-  </div>
-</div>
-
 
 ### Markdown
 
@@ -23,6 +15,15 @@ Syntax highlighted code block
 # Header 1
 ## Header 2
 ### Header 3
+
+<div class="card">
+  <img src="img_avatar.png" alt="Avatar" style="width:100%">
+  <div class="container">
+    <h4><b>John Doe</b></h4>
+    <p>Architect & Engineer</p>
+  </div>
+</div>
+
 
 - Bulleted
 - List
